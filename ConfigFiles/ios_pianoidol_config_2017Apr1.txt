@@ -123,7 +123,7 @@
   "TIME_DELAY_INTERRUPT": 0.5,
   "DELAY_TIME_FOR_SYNC": 0.1,
   "FILE_LOCAL_CONFIG_SONGDATA": "SongData",
-  "ConfigSongData_Link": "https://raw.githubusercontent.com/ben29111994/Light-Dance/master/.gitignore/PianoIdol_SongData_Mar3.txt",
+  "ConfigSongData_Link": "https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/PianoIdol_SongData_Mar3.txt",
   "ConfigUserLevel_Link": "http://d25l8ybundaqcq.cloudfront.net/ConfigGenenal/PianoIdol_UserLevel_Oct2.txt",
   "localizationURL": "http://d25l8ybundaqcq.cloudfront.net/ConfigGenenal/Localization_Apr1.csv",
   "ConfigQuest_Link": "https://s3.amazonaws.com/pianoidol2/ConfigGenenal/PianoIdol_DailyQuest_Config.txt",
