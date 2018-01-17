@@ -1,0 +1,173 @@
+{
+  "maxLifeLinkedUser": 30,
+  "maxLifeGuestUser": 20,
+  "secondsPerLife": 300,
+  "onesignal_app_id": "9ba0f085-331f-4420-b12a-243cae3809e3",
+  "google_project_id": "623827619083",
+  "mopub_ids": [
+    "ko_dung_nua_nhung_dung_xoa_keo_ban_cu_bi_loi",
+    "ko_dung_nua_nhung_dung_xoa_keo_ban_cu_bi_loi"
+  ],
+  "abTestGameplay": 0,
+  "ABTestOnboarding": 1,
+  "lastNoteTutorial": 36,
+  "step2NoteTutorial": 9,
+  "adsInterval": 60,
+  "rubyForOnline": 5,
+  "pecentRewardOnline": 0.9,
+  "REWARD_FIRST_START_GAME": 20,
+  "valueExpPerScore": 10,
+  "unityads_ids": [
+    "1123093",
+    "1123093",
+    "rewardedVideo",
+    "fullScreenVideo"
+  ],
+  "mopubAndroidFullAdsRewardId" : "0146bd8ef7e94cddb6a2f4a66f3c0d46",
+  "mopubVideoAdsRewardId": "b40a3729dd234dde85007211caafd4f4",
+  "mopubIOSFullAdsRewardId":"c6ab12427fa24f58a66e2e7b59c7e640",
+  "mopubIOSVideoAdsRewardId": "3305b8eb70b14df6a96c93fe42671130",
+  "priorityMopub": [
+    true,
+    true
+  ],
+  "showFullscreenAds": [
+    false,
+    false
+  ],
+  "adsMessages": [
+    "hihi",
+    "hihi"
+  ],
+  "adsImages": [
+    "http://i.imgur.com/omtq7Xk.jpg",
+    "http://i.imgur.com/omtq7Xk.jpg"
+  ],
+  "adsURL": [
+    "",
+    ""
+  ],
+  "ga_ids": [
+    "UA-72056219-6",
+    "UA-72056219-4",
+    "UA-72056219-6"
+  ],
+  "iap_values": [
+    200,
+    400,
+    825
+  ],
+  "lives_exchange_values": [
+    5,
+    10,
+    25,
+    60
+  ],
+  "lives_exchange_prices": [
+    25,
+    45,
+    90,
+    190
+  ],
+  "defaultSpeedTable": [
+    1,
+    1.1,
+    1.25,
+    1.5,
+    1.8,
+    0.05
+  ],
+  "dailyrewardLives": [
+    0,
+    0,
+    0,
+    3,
+    3,
+    4,
+    5
+  ],
+  "dailyrewardDiamonds": [
+    5,
+    7,
+    9,
+    0,
+    5,
+    7,
+    10
+  ],
+  "localizeConfig": [
+   "English#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/English.png",
+   "Spanish#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Spanish.png",
+   "Japanese#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Japanese.png",
+   "Russian#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Russian.png",
+   "Vietnamese#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Vietnamese.png"
+ ],
+  "versionCodeForceUpdate":0,
+  "linkUpdateGame":"https://play.google.com/store/apps/details?id=com.youmusic.magictiles",
+  "noteBadPercent": 0.30,
+  "numNotesStartAnalytic": 50,
+  "maxDiamondPerGame": 5,
+  "diamondChance": 0.025,
+  "maxContinuePerGame": 4,
+  "startingPriceToContinue": 2,
+  "scoreToDropDiamond": 450,
+  "speedToDropDiamond": 2.4,
+  "eventsURL": "",
+  "onlineChallenge": true,
+  "OPEN_GM": false,
+  "IS_SHOW_ADS": true,
+  "TIME_SMOOTH_BEGIN": 0.17,
+  "TIME_SMOOTH_END": 0.17,
+  "AUDIO_DELAY_MIDI": 0.1,
+  "AUDIO_DELAY_PLAY": 0.1,
+  "TIME_DELAY_INTERRUPT": 0.5,
+  "DELAY_TIME_FOR_SYNC": 0.1,
+  "FILE_LOCAL_CONFIG_SONGDATA": "SongData",
+  "ConfigSongData_Link": "https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles-ForTesting/PianoIdol_SongData_Mar3.txt",
+  "ConfigUserLevel_Link": "http://d25l8ybundaqcq.cloudfront.net/ConfigGenenal/PianoIdol_UserLevel_Oct2.txt",
+  "localizationURL": "http://d25l8ybundaqcq.cloudfront.net/ConfigGenenal/Localization_Apr1.csv",
+  "ConfigQuest_Link": "https://s3.amazonaws.com/pianoidol2/ConfigGenenal/PianoIdol_DailyQuest_Config.txt",
+  "PERPECT_MODE": true,
+  "PERPECT_LINE": true,
+  "PERPECT_LOCATION": -480,
+  "PERPECT_LOCATION_Y_SPRITE": 0,
+  "DISTANCE_WITH_NOTE": 400,
+  "DISTANCE_PERFECT": 250,
+  "DISTANCE_GREAT": 450,
+  "DISTANCE_GOOD": 600,
+  "ENABLE_PROTOBUG_MODE" : false,
+  "ONLINE_URL_SERVER":"http://52.71.9.24:8082",
+  "PARSE_SERVER_URL_OLD": "https://api.parse.com/1/",
+  "PARSE_APPLICATION_ID_OLD": "Kv1yH8DSzUmGa3lvIH40HRyTjylAzEWULYUsxOxN",
+  "PARSE_SERVER_URL": "http://52.71.9.24:1341/PI/parse/",
+  "PARSE_APPLICATION_ID": "PI",
+  "PARSE_DOT_NET_KEY": "skgtUkIqcSKASy0CsOpQyN1wmd8O5RMADZ4Wa0hW",
+  "crosspromotion": {
+    "crossdefault": {
+      "crossname": "mt",
+      "title": "We are moving house",
+      "textbtn": "216",
+      "subtitle": "217",
+      "socialcontext": "218",
+      "enableinandroid": true,
+      "enableinios": true,
+      "iconURL": "https://s3.amazonaws.com/pianoidol2/icon/icon13.png",
+      "appstoreURL": "https://itunes.apple.com/vn/app/magic-touch-piano-rhythm/id1051575834?l=vi&mt=8",
+      "googleplayURL": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles"
+    },
+    "data": [
+      {
+        "crossname": "mt",
+        "title": "We are moving house",
+        "textbtn": "216",
+        "subtitle": "217",
+        "socialcontext": "218",
+        "enableinandroid": true,
+        "enableinios": true,
+        "iconURL": "https://s3.amazonaws.com/pianoidol2/icon/icon13.png",
+        "appstoreURL": "https://itunes.apple.com/vn/app/magic-touch-piano-rhythm/id1051575834?l=vi&mt=8",
+        "googleplayURL": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles"
+      }
+    ]
+  }
+}
