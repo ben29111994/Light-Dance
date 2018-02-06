@@ -1,6 +1,6 @@
 {
 	"config":75,
 	"localization":51,
-	"ConfigSongData_Version":205,
+	"ConfigSongData_Version":206,
 	"ConfigUserLevel_Version":145
 }
