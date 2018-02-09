@@ -88,11 +88,11 @@
     10
   ],
   "localizeConfig": [
-   "English#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/English.png",
-   "Spanish#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Spanish.png",
-   "Japanese#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Japanese.png",
-   "Russian#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Russian.png",
-   "Vietnamese#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Vietnamese.png"
+   "English#https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/English.png",
+   "Spanish#https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/Spanish.png",
+   "Japanese#https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/Japanese.png",
+   "Russian#https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/Russian.png",
+   "Vietnamese#https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/Vietnamese.png"
  ],
   "versionCodeForceUpdate":0,
   "linkUpdateGame":"https://play.google.com/store/apps/details?id=gopencils.games.night.rhythm",
@@ -117,8 +117,8 @@
   "FILE_LOCAL_CONFIG_SONGDATA": "SongData",
   "ConfigSongData_Link": "https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/gopencils_SongData.txt",
   "ConfigUserLevel_Link": "",
-  "localizationURL": "http://d25l8ybundaqcq.cloudfront.net/ConfigGenenal/Localization_Apr1.csv",
-  "ConfigQuest_Link": "https://s3.amazonaws.com/pianoidol2/ConfigGenenal/PianoIdol_DailyQuest_Config.txt",
+  "localizationURL": "https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/Localization.csv",
+  "ConfigQuest_Link": "https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/DailyQuest_Config.txt",
   "PERPECT_MODE": true,
   "PERPECT_LINE": true,
   "PERPECT_LOCATION": -480,
