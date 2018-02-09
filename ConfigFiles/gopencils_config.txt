@@ -1,0 +1,131 @@
+{
+  "maxLifeLinkedUser": 30,
+  "maxLifeGuestUser": 20,
+  "secondsPerLife": 300,
+  "onesignal_app_id": "",
+  "google_project_id": "",
+  "mopub_ids": [
+    "",
+    ""
+  ],
+  "abTestGameplay": 0,
+  "ABTestOnboarding": 1,
+  "lastNoteTutorial": 36,
+  "step2NoteTutorial": 9,
+  "adsInterval": 60,
+  "rubyForOnline": 5,
+  "pecentRewardOnline": 0.9,
+  "REWARD_FIRST_START_GAME": 20,
+  "valueExpPerScore": 10,
+  "unityads_ids": [
+    "",
+    "",
+    "rewardedVideo",
+    "fullScreenVideo"
+  ],
+  "showFullscreenAds": [
+    false,
+    false
+  ],
+  "adsMessages": [
+    "",
+    ""
+  ],
+  "adsImages": [
+    "",
+    ""
+  ],
+  "adsURL": [
+    "",
+    ""
+  ],
+  "ga_ids": [
+    "",
+    "",
+    ""
+  ],
+  "iap_values": [
+    200,
+    400,
+    825
+  ],
+  "lives_exchange_values": [
+    5,
+    10,
+    25,
+    60
+  ],
+  "lives_exchange_prices": [
+    25,
+    45,
+    90,
+    190
+  ],
+  "defaultSpeedTable": [
+    1,
+    1.1,
+    1.25,
+    1.5,
+    1.8,
+    0.05
+  ],
+  "dailyrewardLives": [
+    0,
+    0,
+    0,
+    3,
+    3,
+    4,
+    5
+  ],
+  "dailyrewardDiamonds": [
+    5,
+    7,
+    9,
+    0,
+    5,
+    7,
+    10
+  ],
+  "localizeConfig": [
+   "English#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/English.png",
+   "Spanish#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Spanish.png",
+   "Japanese#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Japanese.png",
+   "Russian#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Russian.png",
+   "Vietnamese#https://s3.amazonaws.com/pianochallenge2/pc201/Mar1/flagicon/Vietnamese.png"
+ ],
+  "versionCodeForceUpdate":0,
+  "linkUpdateGame":"https://play.google.com/store/apps/details?id=gopencils.games.night.rhythm",
+  "noteBadPercent": 0.30,
+  "numNotesStartAnalytic": 50,
+  "maxDiamondPerGame": 5,
+  "diamondChance": 0.025,
+  "maxContinuePerGame": 4,
+  "startingPriceToContinue": 2,
+  "scoreToDropDiamond": 450,
+  "speedToDropDiamond": 2.4,
+  "eventsURL": "",
+  "onlineChallenge": true,
+  "OPEN_GM": false,
+  "IS_SHOW_ADS": true,
+  "TIME_SMOOTH_BEGIN": 0.17,
+  "TIME_SMOOTH_END": 0.17,
+  "AUDIO_DELAY_MIDI": 0.1,
+  "AUDIO_DELAY_PLAY": 0.1,
+  "TIME_DELAY_INTERRUPT": 0.5,
+  "DELAY_TIME_FOR_SYNC": 0.1,
+  "FILE_LOCAL_CONFIG_SONGDATA": "SongData",
+  "ConfigSongData_Link": "https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/gopencils_SongData.txt",
+  "ConfigUserLevel_Link": "",
+  "localizationURL": "http://d25l8ybundaqcq.cloudfront.net/ConfigGenenal/Localization_Apr1.csv",
+  "ConfigQuest_Link": "https://s3.amazonaws.com/pianoidol2/ConfigGenenal/PianoIdol_DailyQuest_Config.txt",
+  "PERPECT_MODE": true,
+  "PERPECT_LINE": true,
+  "PERPECT_LOCATION": -480,
+  "PERPECT_LOCATION_Y_SPRITE": 0,
+  "DISTANCE_WITH_NOTE": 400,
+  "DISTANCE_PERFECT": 250,
+  "DISTANCE_GREAT": 450,
+  "DISTANCE_GOOD": 600,
+  "ENABLE_PROTOBUG_MODE" : false
+}
