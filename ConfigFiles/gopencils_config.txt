@@ -116,7 +116,7 @@
   "DELAY_TIME_FOR_SYNC": 0.1,
   "FILE_LOCAL_CONFIG_SONGDATA": "SongData",
   "ConfigSongData_Link": "https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/gopencils_SongData.txt",
-  "ConfigUserLevel_Link": "",
+  "ConfigUserLevel_Link": "https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/UserLevel.txt",
   "localizationURL": "https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/Localization.csv",
   "ConfigQuest_Link": "https://raw.githubusercontent.com/ben29111994/Light-Dance/master/ConfigFiles/DailyQuest_Config.txt",
   "PERPECT_MODE": true,
